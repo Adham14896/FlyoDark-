@@ -1,0 +1,58 @@
+body {
+     color:white ;
+    background-color: hsl(218, 28%, 13%);
+}
+
+
+.nav-link {
+    color: white;
+}
+
+.active {
+    color: white;
+}
+
+.g-col-lg {
+    background-color: hsl(219, 30%, 18%);
+}
+
+#Testimonials {
+    background-color: hsl(219, 30%, 18%);
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 20px 20px black;
+}
+
+@media screen and (max-width:600px) {
+
+.logos {
+    margin-top: 7%;
+}
+
+}
+
+section {
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+
+.container {
+    font-family:'Big Shoulders Display', cursive; 
+}
+
+footer {
+    background-color: hsl(219, 30%, 18%);
+    padding: 4%;
+}
+
+.foot {
+    color: white;
+}
+
+.early-access {
+    margin-left: 25%;
+}
+
+.attribution {
+    text-align: center;
+}
